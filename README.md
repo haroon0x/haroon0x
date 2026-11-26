@@ -8,6 +8,4 @@ agents that ask first.
 - [Wake](https://github.com/haroon0x/Wake-ai) on-device memory for what you saw on your phone
 - [RedLoop](https://github.com/haroon0x/RedLoop) red-teams your code before someone else does
 
-now: nocut, an android video editor that doesn't charge you to export. private until it ships.
-
 28 prs merged into repos i don't own. everything else is [here](https://github.com/haroon0x?tab=repositories).

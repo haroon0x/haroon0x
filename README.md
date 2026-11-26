@@ -7,7 +7,7 @@
 prev: ai at [brace.so](https://brace.so), mcp servers to agents.
 also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
 
-open to work. ideally with a founder who still writes code.
+open to work. ideally with a founder who has a great eye for talent.
 
 28 merged prs outside my own repos: kubeflow, quran, gemma-facet, supermemory, tenstorrent, meshery, and others.
 

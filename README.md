@@ -19,4 +19,4 @@ everything else: [haroon0x.dev](https://haroon0x.dev).
 ▀█████▀  ▀█████▀
 ```
 
-fav song: [tujhe bhula diya](https://youtu.be/-Hb2DeHvvEg).
+fav song: [tujhe bhula diya](https://open.spotify.com/track/4r8JqkhpTb5tzSKKHnVJIJ).

@@ -1,11 +1,10 @@
 - [zyquor](https://github.com/haroon0x/zyquor) x drafts that wait for you
-- [DeadDrop](https://github.com/haroon0x/DeadDrop) coding agents in disposable worktrees, patches you choose to apply
 - [Wake](https://github.com/haroon0x/Wake-ai) on-device memory for what you saw on your phone
 - [OutSync](https://github.com/haroon0x/OutSync) db transactions that can't lose their kafka event
 - [Containerized Agent](https://github.com/haroon0x/Containerized-agent) natural-language tasks in isolated containers
 
 prev: ai at [brace.so](https://brace.so), mcp servers to agents.
-also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
+also tried my own product: [noticeai.dev](https://noticeai.dev), 
 
 open to work. for a founder who already suspects i'm good.
 

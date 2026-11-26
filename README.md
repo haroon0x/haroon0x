@@ -8,7 +8,6 @@ prev: ai at [brace.so](https://brace.so), mcp servers to agents.
 also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
 
 open to work. for a founder who already suspects i'm good.
-fav song: tujhe bula diya.
 
 28 merged prs outside my own repos: kubeflow, quran, gemma-facet, supermemory, tenstorrent, meshery, and others.
 
@@ -20,3 +19,5 @@ everything else: [haroon0x.dev](https://haroon0x.dev).
 ███████  ███████
 ▀█████▀  ▀█████▀
 ```
+
+fav song: tujhe bula diya.

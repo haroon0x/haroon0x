@@ -11,6 +11,8 @@ localhost native.
 prev: ai at brace, mcp servers to agents.
 also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
 
+open to work. even your cloud is fine.
+
 28 merged prs outside my own repos: kubeflow, quran, gemma-facet, supermemory, tenstorrent, meshery, and others.
 
 everything else: [haroon0x.dev](https://haroon0x.dev).

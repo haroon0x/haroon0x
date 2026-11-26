@@ -14,7 +14,8 @@ open to work. ideally with a founder who still writes code.
 everything else: [haroon0x.dev](https://haroon0x.dev).
 
 ```
-  █ ▀▀█ ▀▀█    █▀█    █▀█      █
-  █ █▀▀   █    █ █    █ █      █
-  ▀ ▀▀▀   ▀ ▀  ▀▀▀ ▀  ▀▀▀ ▀    ▀
+▄█████▄  ▄█████▄
+███████  ███████
+███████  ███████
+▀█████▀  ▀█████▀
 ```

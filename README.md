@@ -8,7 +8,8 @@ localhost native.
 - [OutSync](https://github.com/haroon0x/OutSync) db transactions that can't lose their kafka event
 - [Containerized Agent](https://github.com/haroon0x/Containerized-agent) natural-language tasks in isolated containers
 
-previously: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
+prev: ai at brace, mcp servers to agents.
+also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
 
 28 merged prs outside my own repos: kubeflow, quran, gemma-facet, supermemory, tenstorrent, meshery, and others.
 

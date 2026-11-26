@@ -9,3 +9,10 @@ agents that ask first.
 - [OutSync](https://github.com/haroon0x/OutSync) db transactions that can't lose their kafka event
 
 28 prs merged into repos i don't own. everything else: [haroon0x.dev](https://haroon0x.dev).
+
+```
+▄█████▄  ▄█████▄
+███████  ███████
+███████  ███████
+▀█████▀  ▀█████▀
+```

@@ -1,6 +1,6 @@
 # haroon0x
 
-agents with receipts.
+localhost native.
 
 - [zyquor](https://github.com/haroon0x/zyquor) x drafts that wait for you
 - [DeadDrop](https://github.com/haroon0x/DeadDrop) coding agents in disposable worktrees, patches you choose to apply

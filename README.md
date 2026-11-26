@@ -4,7 +4,7 @@
 - [OutSync](https://github.com/haroon0x/OutSync) db transactions that can't lose their kafka event
 - [Containerized Agent](https://github.com/haroon0x/Containerized-agent) natural-language tasks in isolated containers
 
-prev: ai at brace, mcp servers to agents.
+prev: ai at [brace.so](https://brace.so), mcp servers to agents.
 also tried my own product: [noticeai.dev](https://noticeai.dev), evidence-first audits of how ai reads your pages.
 
 open to work. ideally with a founder who still writes code.
